@@ -1,0 +1,179 @@
+country,total_earnings,player_count,game,game_earnings
+China,330911684.75,9333,Dota 2,86327573.44
+United States of America,299584469.30,29198,Fortnite,52369833.18
+South Korea,156871749.12,5963,League of Legends,41645617.74
+Russia,96100531.48,5860,Dota 2,42494496.56
+Brazil,72383381.53,5954,Rainbow Six Siege,13311887.49
+Denmark,64098932.78,2200,Counter-Strike: Global Offensive,23097482.88
+France,61493308.66,6594,Counter-Strike: Global Offensive,9837046.88
+Sweden,58542964.68,3353,Dota 2,19451066.03
+Germany,52913505.33,6912,Dota 2,11761651.15
+Canada,50500991.72,4361,Fortnite,9174904.96
+United Kingdom,49752457.80,5672,Fortnite,8783157.13
+Japan,41279519.52,3982,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,5800971.79
+Ukraine,40457094.01,1716,Dota 2,23674247.49
+Australia,34420778.50,4579,Dota 2,8037226.70
+Finland,34088281.30,2213,Dota 2,17476715.63
+Poland,31813513.43,3124,Counter-Strike: Global Offensive,8379347.80
+Thailand,31119861.22,2309,Arena of Valor,7319551.96
+Philippines,26950408.12,1914,Dota 2,12061324.48
+Malaysia,23222167.88,1715,Dota 2,14376781.97
+Taiwan,22986486.55,1720,League of Legends,5975442.71
+Indonesia,21749545.61,2650,Free Fire,5106526.21
+Vietnam,19750508.43,2789,Arena of Valor,5040274.48
+Netherlands,19150731.37,2237,Fortnite,3549767.69
+Spain,16576102.25,2893,League of Legends,1608951.90
+Saudi Arabia,15405371.83,1662,Rocket League,4240042.95
+Turkey,14738901.59,1729,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,3761651.81
+Norway,13920063.65,1419,Fortnite,3375189.68
+Mexico,10881604.30,1587,Fortnite,2200247.12
+Argentina,10836545.05,1577,Fortnite,2642240.03
+Israel,10676989.51,306,Dota 2,6574066.65
+Bulgaria,10456884.71,449,Dota 2,6116714.25
+Peru,9735803.21,725,Dota 2,8034846.28
+Jordan,9685991.92,167,Dota 2,8575391.65
+Italy,8367174.27,1745,Fortnite,880703.40
+Estonia,7861666.53,369,Dota 2,4347152.40
+Singapore,7827281.81,1208,Dota 2,2793685.08
+India,7804372.32,1637,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,3843448.97
+Pakistan,7099498.40,439,Dota 2,4785715.26
+Czech Republic,6936458.15,1293,Counter-Strike: Global Offensive,1271161.95
+Kazakhstan,6675830.16,844,Counter-Strike: Global Offensive,3301917.92
+Austria,6520375.48,745,Fortnite,3844467.67
+Romania,6399873.43,686,Dota 2,2808712.09
+Slovakia,6317617.23,398,Dota 2,2963487.02
+Belgium,6188053.06,988,League of Legends,1049436.82
+Mongolia,6041914.22,326,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,2837996.17
+Portugal,6039354.95,1224,Counter-Strike: Global Offensive,981914.68
+Lebanon,5769096.31,123,Dota 2,4992703.41
+Hong Kong,5357027.12,714,Fortnite,1245534.74
+Belarus,5190573.97,437,Dota 2,2291314.61
+North Macedonia,4566035.79,93,Dota 2,3678870.30
+Serbia,4484144.50,444,Fortnite,2121053.98
+Bosnia and Herzegovina,3797052.68,89,Counter-Strike: Global Offensive,2080849.26
+Chile,3770236.48,916,VALORANT,905418.32
+Switzerland,3488520.94,731,Fortnite,2059315.97
+Slovenia,3429442.44,186,Fortnite,2139445.80
+Latvia,3415143.74,367,Counter-Strike: Global Offensive,1414586.90
+Egypt,3250508.62,342,CrossFire,1038263.63
+Greece,2838143.30,550,Dota 2,1277589.85
+New Zealand,2696723.23,476,Fortnite,781506.10
+Lithuania,2652667.24,429,Counter-Strike: Global Offensive,707904.22
+Hungary,2647040.12,777,Counter-Strike 2,511585.03
+South Africa,2374848.17,860,Counter-Strike: Global Offensive,1020902.50
+Armenia,2261090.83,56,Dota 2,1406297.55
+Croatia,2199322.53,330,League of Legends,723534.89
+Morocco,2077728.20,224,Rocket League,986161.32
+Macao,1819458.11,37,Dota 2,1336593.81
+Nepal,1685473.25,171,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,1626521.14
+Moldova,1648296.89,82,Dota 2,1250106.81
+Myanmar,1580633.38,278,Mobile Legends: Bang Bang,755090.60
+Kyrgyzstan,1542137.48,110,Dota 2,1283877.61
+Iraq,1535870.96,158,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,1200851.54
+Ireland,1486317.00,366,Fortnite,260021.98
+Colombia,1422218.21,424,Free Fire,213374.07
+Uzbekistan,1266185.35,207,Dota 2,512051.16
+Dominican Republic,1237782.01,133,Street Fighter V,268835.20
+Puerto Rico,1117735.57,156,NBA 2K20,250000.00
+Uruguay,1068214.95,173,Counter-Strike: Global Offensive,147793.06
+United Arab Emirates,1054513.80,278,Street Fighter 6,318403.00
+Bolivia,1051982.46,72,Dota 2,958755.28
+Cambodia,899777.15,247,Mobile Legends: Bang Bang,498772.65
+Iran,880340.77,170,Chess.com,379426.81
+Algeria,847862.33,137,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,234443.68
+Kuwait,787334.18,216,Rainbow Six Siege,198065.93
+Azerbaijan,676434.77,112,chess24,295261.50
+Georgia,674674.06,123,PLAYERUNKNOWN’S BATTLEGROUNDS,344693.10
+Cuba,667406.19,51,Fortnite,275833.34
+Syria,573387.51,64,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,300824.11
+Kosovo,553451.17,72,Counter-Strike: Global Offensive,377651.80
+Guatemala,535422.07,57,Counter-Strike 2,278401.67
+Bahrain,531236.46,58,Fortnite,344065.00
+Montenegro,488035.70,19,Counter-Strike: Global Offensive,386656.12
+Venezuela,469677.61,205,League of Legends,60648.11
+Tunisia,421066.06,116,League of Legends,165174.37
+Lao,357908.04,109,Dota 2,276831.63
+Ecuador,316056.05,85,Free Fire,153083.34
+Tonga,293090.17,1,Call of Duty: Warzone,293090.17
+Iceland,283150.68,183,Overwatch,102284.60
+Bangladesh,263228.37,125,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,127158.36
+Nicaragua,225650.28,13,Dota 2,141516.18
+Costa Rica,200254.00,90,League of Legends,53540.21
+Palestine,188792.98,34,League of Legends,93631.92
+Malta,187994.59,301,FIFA 18,38778.70
+Senegal,177159.17,12,FIFA 21,63958.34
+Panama,141747.61,65,Fortnite,77940.00
+Albania,141037.50,68,PLAYERUNKNOWN’S BATTLEGROUNDS,44105.94
+Luxembourg,139363.90,66,Fortnite,40933.20
+Gibraltar,129663.11,2,PLAYERUNKNOWN’S BATTLEGROUNDS,126324.51
+Qatar,122471.18,64,Fortnite,22485.00
+Brunei,109475.63,215,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,59118.95
+Honduras,102812.29,30,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,66731.21
+Oman,101006.91,39,Fortnite,87245.00
+Yemen,80738.74,12,Rocket League,30075.55
+Afghanistan,79784.20,9,Call of Duty: Black Ops 4,73870.60
+Paraguay,69549.69,49,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,21111.66
+Libya,66120.30,17,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,54833.39
+El Salvador,43732.19,19,Pokemon Unite,12425.00
+Reunion,34405.23,30,Rocket League,34405.23
+Sri Lanka,33112.34,34,Vainglory,11010.97
+Nigeria,32086.71,7,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,17086.71
+Cameroon,29399.20,1,Street Fighter 6,7673.55
+Jamaica,26074.54,18,Call of Duty: Warzone,13516.67
+Ethiopia,23669.95,1,Overwatch,23669.95
+Mauritius,21523.33,29,Call of Duty: Mobile,7333.33
+Trinidad and Tobago,17419.26,8,Fortnite,3775.00
+Greenland,15325.00,3,Fortnite,15325.00
+Monaco,12764.54,5,Chess.com,7812.50
+Côte d’Ivoire,10909.22,7,Tekken 7,7200.00
+Faroe Islands,9849.49,27,Counter-Strike: Global Offensive,9296.06
+Guadeloupe,8888.64,1,FIFA 18,8330.00
+Guyana,8366.67,2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,7666.67
+Turkmenistan,7553.95,12,Dota 2,6450.00
+Namibia,6771.59,7,Counter-Strike: Global Offensive,5000.00
+Sudan,6455.84,4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,6355.84
+Fiji,6415.25,2,Fortnite,5801.67
+Maldives,6021.54,8,Rocket League,5900.00
+Suriname,5655.04,3,Pokemon Unite,4683.33
+Jersey,4706.33,4,Echo Arena,3453.33
+New Caledonia,4562.97,6,Shadowverse,3300.00
+Tanzania,4500.00,1,Magic: The Gathering Arena,4500.00
+Madagascar,4458.00,8,Tekken 7,2400.00
+Isle of Man,4391.00,3,iRacing.com,2786.00
+Zimbabwe,4360.00,2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,4260.00
+Åland Islands,3920.20,19,Heroes of Newerth,2737.38
+Guernsey,3670.11,1,Rocket League,3670.11
+Ghana,3649.89,6,FIFA 19,2808.76
+Tajikistan,3475.00,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,3475.00
+Mozambique,2345.69,5,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,1920.00
+Cyprus,2256.09,13,Apex Legends,1269.99
+Kenya,2204.94,5,Overwatch,1482.62
+Haiti,1900.00,1,Fortnite,1900.00
+American Samoa,1750.00,1,Rainbow Six Siege,1750.00
+Zambia,1635.44,2,Mortal Kombat 11,1224.20
+Angola,1400.00,5,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,1200.00
+Guam,1250.00,1,Tekken 8,1250.00
+Togo,1200.00,1,Tekken 7,1200.00
+Andorra,952.26,5,Chess.com,575.00
+Mauritania,759.00,1,Hearthstone,759.00
+Wallis and Futuna,600.00,1,Diabotical,600.00
+Gabon,540.50,1,Fortnite,540.50
+Aruba,518.74,5,Apex Legends,380.00
+Bermuda,506.00,4,Dota 2,200.00
+Tuvalu,500.00,1,Fortnite,500.00
+Botswana,338.49,2,VALORANT,233.33
+Northern Mariana Islands,300.00,1,Quake III Arena,300.00
+Niger,300.00,3,Rocket League,300.00
+Bahamas,263.00,1,Yu-Gi-Oh! Duel Links,263.00
+Belize,250.00,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile,250.00
+Dominica,200.00,1,Counter-Strike: Global Offensive,200.00
+Uganda,149.66,2,Minecraft,100.00
+Virgin Islands,100.00,1,Rocket League,100.00
+Niue,65.97,1,BlazBlue: Chronophantasma Extend,33.46
+Liechtenstein,56.47,2,Call of Duty: Advanced Warfare,28.47
+Saint Martin,50.00,1,Counter-Strike: Global Offensive,50.00
+US Minor Outlying Islands,30.00,1,Brawlhalla,30.00
+Antigua,28.42,1,Fortnite,28.42
+Papua New Guinea,25.00,1,Diabotical,25.00
+Saint Kitts and Nevis,20.00,1,Lichess,20.00
+Saint Barthélemy,7.63,1,Tetr.io,7.63
