@@ -37,3 +37,38 @@ Using real esports earnings data, it lets you explore how money and players are 
 - **Data:** CSV files (`esports_games.csv`, `country_esports.csv`) loaded client-side
 
 This repo is mainly focused on **data storytelling and interaction design** for esports, rather than just static charts.
+
+---
+
+## Running the project locally
+
+Follow these steps to run the Esports Earnings Visualization Dashboard on your machine.
+
+1. **Install prerequisites**
+   - Install **Node.js** (v18+ recommended) from https://nodejs.org  
+   - Confirm install:
+     ```bash
+     node -v
+     npm -v
+     ```
+
+2. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/Esports-Data-Visualization.git
+   cd Esports-Data-Visualization
+
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+   This will install React, Vite, D3, and all other required packages.
+
+4. **Start the server**
+   ```bash
+   npm run dev
+   ```
+   Vite will print a local URL in the terminal, typically:
+   Local:   http://localhost:5173/
+
+Open that URL in your browser to see the dashboard.
+⚠️ Keep the terminal open while developing. The dev server will hot-reload when you edit files.
