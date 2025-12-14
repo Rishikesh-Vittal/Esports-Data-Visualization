@@ -54,7 +54,7 @@ Follow these steps to run the Esports Earnings Visualization Dashboard on your m
 
 2. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Esports-Data-Visualization.git
+   git clone https://github.com/Rishikesh-Vittal/Esports-Data-Visualization.git
    cd Esports-Data-Visualization
 
 3. **Install Dependencies**
